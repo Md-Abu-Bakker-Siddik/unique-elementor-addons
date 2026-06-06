@@ -1,0 +1,1 @@
+<div class="service-count"><?php echo esc_html( $count ); ?></div>

@@ -1,0 +1,1 @@
+<div class="skill-count"><?php echo esc_html( $count ); ?></div>

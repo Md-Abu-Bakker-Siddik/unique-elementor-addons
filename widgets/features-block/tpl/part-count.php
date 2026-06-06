@@ -1,0 +1,1 @@
+<div class="features-count"><?php echo esc_html( $count ); ?></div>

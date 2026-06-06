@@ -1,0 +1,1 @@
+<i class="<?php echo esc_attr( ${$icon_pack} );?>"></i>
