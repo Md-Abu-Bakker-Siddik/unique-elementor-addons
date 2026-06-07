@@ -1,5 +1,5 @@
 === Unique Elementor Addons ===
-Contributors: uniqueelementoraddons
+Contributors: mdabubakkersiddik1
 Tags: elementor, page builder, widgets, addons, woocommerce
 Requires at least: 6.0
 Tested up to: 6.8

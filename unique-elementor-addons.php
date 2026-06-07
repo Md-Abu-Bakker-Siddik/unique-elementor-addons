@@ -7,8 +7,8 @@
  * Requires at least: 6.0
  * Requires PHP:      7.4
  * Requires Plugins: elementor
- * Author:            Unique Elementor Addons
- * Author URI:        https://wordpress.org/plugins/unique-elementor-addons/
+ * Author:            Md Abu Bakker Siddik
+ * Author URI:        https://profiles.wordpress.org/mdabubakkersiddik1/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       unique-elementor-addons
